@@ -1,0 +1,28 @@
+{
+  "name": "bonusprogrammchecker",
+  "version": "1.0.0",
+  "description": "Mern stack app for checking serial numbers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js ",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mern",
+    "react",
+    "node",
+    "mongodb",
+    "express"
+  ],
+  "author": "D.Shanygin <deniil2607@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.17"
+  },
+  "devDependencies": {
+    "concurrently": "^5.3.0",
+    "nodemon": "^2.0.6"
+  }
+}
