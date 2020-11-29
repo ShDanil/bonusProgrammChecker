@@ -1,4 +1,5 @@
 {
   "port": 5000,
+  "jwtSecret": "danila",
   "mongoUri": "mongodb+srv://danila:1234@cluster0.lnnps.mongodb.net/<dbname>?retryWrites=true&w=majority"
 }
